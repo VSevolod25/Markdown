@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(0.25turn, #3f87a6, blue);
+    height: 2000px;
+    font-family: 'Libre Franklin', 'sans-serif';
+}
+
+.light {
+    color: white;
+    text-shadow: 1px 1px 5 px rgba(red, green, blue, alpha)
+}
+
