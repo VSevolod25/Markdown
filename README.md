@@ -1,4 +1,5 @@
-# l5
+# Classic MarkdownEditor
+Create simple ME via CLI on Vue.js
 
 ## Project setup
 ```
